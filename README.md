@@ -1,1 +1,3 @@
-# BurguerKenzie
+# Burguer Kenzie
+
+Este projeto em React.js simula a funcionalidade de adicionar pedidos ao carrinho de compras em uma plataforma de lanchonete. Ele foi desenvolvido para oferecer uma experiência interativa e intuitiva aos usuários, permitindo que naveguem pelos itens do cardápio, selecionem aqueles que desejam comprar e os adicionem ao carrinho com facilidade. A aplicação é projetada para ser responsiva e amigável para dispositivos móveis, garantindo que os clientes possam acessá-la de qualquer lugar e a qualquer momento. Com uma interface elegante e funcionalidades bem integradas, este projeto visa melhorar a experiência de compra online para os clientes da lanchonete.
